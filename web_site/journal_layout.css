@@ -1,0 +1,63 @@
+div {
+/*border: 2px green dashed;*/
+    padding: 5px;
+    margin: 5px;
+}
+
+#navigation{
+
+    background-color: #99E0E0;
+    float: left;
+    margin-top: 10px;
+    width: 150px;
+    padding: 5px;
+    border: 5px #009097 solid;
+}
+
+body{
+    background-image: url("images/background.gif");
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.main {
+    background-color: white;
+    border: 10px white solid;
+    overflow: hidden;
+}
+
+.header{
+    background-color: #A8F0F0 ;
+    text-align: right;
+}
+
+.article{
+    overflow: hidden;
+    border:4px #C2E9E9 solid;
+    background-color: #E8FBFB;
+
+}
+
+.articles{
+    margin-left: 180px;
+}
+
+.thumbnail img {
+    width: 150px;
+    height: 150px;
+}
+
+.date{border-bottom-style: dashed;
+    border-bottom-width: 2px;
+}
+
+.thumbnail {
+    width: 150px;
+    padding: 5px;
+    margin: 15px;
+    float: right;
+}
+
+.main {
+
+}
